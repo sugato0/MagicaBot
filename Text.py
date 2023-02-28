@@ -36,7 +36,7 @@ qiwiP2Prr = ["""Переведите на Qiwi кошелёк ""","""  рубл�
 ✅После оплаты нажмите кнопку "ОПЛАЧЕНО"✅"""]
 
 
-urla = "https://t.me/ShopTest151Bot"
+urla = "https://yandex.ru/search/?text=%D0%B0%D0%B2%D1%82%D0%BE%D0%BA%D0%BB%D0%B8%D0%BA%D0%B5%D1%80+%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B8+%D0%B2%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5&lr=22&clid=2411726"
 
 
 qiwi = QiwiP2P(auth_key="eyJ2ZXJzaW9uIjoiUDJQIiwiZGF0YSI6eyJwYXlpbl9tZXJjaGFudF9zaXRlX3VpZCI6InU2MjN5NC0wMCIsInVzZXJfaWQiOiI3OTIzNDk3ODA4MiIsInNlY3JldCI6ImEyYTM1ZjE3ZDhkNTAyZTMxZDEzY2UwYWJhZmI5MTgyODFjZmZjMGJhMGY1NDkyYjY4ZjcyOGI4YTIxZmJhNjcifX0=")
